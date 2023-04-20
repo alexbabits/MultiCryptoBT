@@ -1,0 +1,3 @@
+-Multiple coins instead of just BTC (Perhaps oth individual stats and combined)
+
+
