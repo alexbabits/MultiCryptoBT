@@ -1,0 +1,1 @@
+Tinkering with basics of backtesting.py. Uses a simple strategy to backtest multiple cryptos.
